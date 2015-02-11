@@ -1,0 +1,6 @@
+D:\work\代码\My Code\测试代码\设计模式\外观模式\bin\Debug\外观模式.exe.config
+D:\work\代码\My Code\测试代码\设计模式\外观模式\bin\Debug\外观模式.exe
+D:\work\代码\My Code\测试代码\设计模式\外观模式\bin\Debug\外观模式.pdb
+D:\work\代码\My Code\测试代码\设计模式\外观模式\obj\Debug\外观模式.exe
+D:\work\代码\My Code\测试代码\设计模式\外观模式\obj\Debug\外观模式.pdb
+D:\work\代码\My Code\测试代码\设计模式\外观模式\obj\Debug\外观模式.csprojResolveAssemblyReference.cache

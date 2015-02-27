@@ -1,0 +1,6 @@
+D:\work\代码\My Code\测试代码\设计模式\享元模式\bin\Debug\享元模式.exe.config
+D:\work\代码\My Code\测试代码\设计模式\享元模式\bin\Debug\享元模式.exe
+D:\work\代码\My Code\测试代码\设计模式\享元模式\bin\Debug\享元模式.pdb
+D:\work\代码\My Code\测试代码\设计模式\享元模式\obj\Debug\享元模式.csprojResolveAssemblyReference.cache
+D:\work\代码\My Code\测试代码\设计模式\享元模式\obj\Debug\享元模式.exe
+D:\work\代码\My Code\测试代码\设计模式\享元模式\obj\Debug\享元模式.pdb

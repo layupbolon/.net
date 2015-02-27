@@ -1,6 +1,5 @@
 D:\work\代码\My Code\测试代码\设计模式\桥接模式\bin\Debug\桥接模式.exe.config
 D:\work\代码\My Code\测试代码\设计模式\桥接模式\bin\Debug\桥接模式.exe
 D:\work\代码\My Code\测试代码\设计模式\桥接模式\bin\Debug\桥接模式.pdb
-D:\work\代码\My Code\测试代码\设计模式\桥接模式\obj\Debug\桥接模式.csprojResolveAssemblyReference.cache
 D:\work\代码\My Code\测试代码\设计模式\桥接模式\obj\Debug\桥接模式.exe
 D:\work\代码\My Code\测试代码\设计模式\桥接模式\obj\Debug\桥接模式.pdb

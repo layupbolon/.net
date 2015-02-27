@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F62682C-C27A-4E6B-A519-9E4AE7640FD5}</ProjectGuid>
+    <ProjectGuid>{8472F00A-0D6F-41C1-84FB-20EAAA76F513}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>抽象工厂模式</RootNamespace>

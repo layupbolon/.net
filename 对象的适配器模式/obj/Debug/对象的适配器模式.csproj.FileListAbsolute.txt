@@ -3,3 +3,4 @@ D:\work\代码\My Code\测试代码\设计模式\对象的适配器模式\bin\De
 D:\work\代码\My Code\测试代码\设计模式\对象的适配器模式\bin\Debug\对象的适配器模式.pdb
 D:\work\代码\My Code\测试代码\设计模式\对象的适配器模式\obj\Debug\对象的适配器模式.exe
 D:\work\代码\My Code\测试代码\设计模式\对象的适配器模式\obj\Debug\对象的适配器模式.pdb
+D:\work\代码\My Code\测试代码\设计模式\对象的适配器模式\obj\Debug\对象的适配器模式.csprojResolveAssemblyReference.cache

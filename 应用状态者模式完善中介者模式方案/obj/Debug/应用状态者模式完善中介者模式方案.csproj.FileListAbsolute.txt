@@ -1,6 +1,5 @@
 D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\bin\Debug\应用状态者模式完善中介者模式方案.exe.config
 D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\bin\Debug\应用状态者模式完善中介者模式方案.exe
 D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\bin\Debug\应用状态者模式完善中介者模式方案.pdb
-D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\obj\Debug\应用状态者模式完善中介者模式方案.csprojResolveAssemblyReference.cache
 D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\obj\Debug\应用状态者模式完善中介者模式方案.exe
 D:\work\代码\My Code\测试代码\设计模式\应用状态者模式完善中介者模式方案\obj\Debug\应用状态者模式完善中介者模式方案.pdb

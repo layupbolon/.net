@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*
+/*123
  定义：允许一个对象在其内部状态改变时自动改变其行为，对象看起来就像是改变了它的类。
  
  优点：
